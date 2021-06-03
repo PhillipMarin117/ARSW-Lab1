@@ -1,9 +1,9 @@
-package edu.escuelaing.arsw.app;
+package edu.escuelaing.arsw.app.app;
 
-import edu.escuelaing.arsw.linecounter.LOCLineCounter;
-import edu.escuelaing.arsw.linecounter.LectorArchivo;
-import edu.escuelaing.arsw.linecounter.LineCounter;
-import edu.escuelaing.arsw.linecounter.PhysicalLineCounter;
+import edu.escuelaing.arsw.app.linecounter.LineCounter;
+import edu.escuelaing.arsw.app.linecounter.LOCLineCounter;
+import edu.escuelaing.arsw.app.linecounter.LectorArchivo;
+import edu.escuelaing.arsw.app.linecounter.PhysicalLineCounter;
 import java.io.IOException;
 /**
  * Clase principal para el arranque del programa.

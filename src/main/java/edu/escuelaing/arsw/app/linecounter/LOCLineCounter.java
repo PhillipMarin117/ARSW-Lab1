@@ -1,4 +1,4 @@
-package edu.escuelaing.arsw.linecounter;
+package edu.escuelaing.arsw.app.linecounter;
 
 /**
  * Clase que lee únicamente líneas de código de un archivo excluyendo comentarios y lineas en blanco.

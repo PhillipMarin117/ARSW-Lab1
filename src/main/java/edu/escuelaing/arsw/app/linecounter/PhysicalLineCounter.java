@@ -1,4 +1,4 @@
-package edu.escuelaing.arsw.linecounter;
+package edu.escuelaing.arsw.app.linecounter;
 /**
  * Clase encargada de leer todas las líneas de un archivo.
  */

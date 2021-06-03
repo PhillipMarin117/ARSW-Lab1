@@ -1,4 +1,4 @@
-package edu.escuelaing.arsw.linecounter;
+package edu.escuelaing.arsw.app.linecounter;
 /**
  * Interface que maneja el conteo de líneas de codigo.
  */
