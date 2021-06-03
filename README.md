@@ -61,7 +61,7 @@ Al ejecutar el comando mvn package  se compila el programa y ejecuta las pruebas
 Estas pruebas pruebas la funcionalidad correcta del programa, validando que cargué correctamente los archivos y que el conteo de lineas sea el correcto con un archivo base.
 
 Acá podemos observar como ejecuta de manera correcta los test
-![](img/Test.JPEG)
+![](img/Test.PNG)
 
 A continuación se presenta una imagen detallando el éxito de las mismas:
 
