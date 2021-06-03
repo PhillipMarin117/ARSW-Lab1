@@ -5,17 +5,11 @@ import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-
-
-
 /**
  * Clase encargada de comunicarse con la interfaz para que realice el conteo correspondiente
  */
 public class LectorArchivo {
-
-
     public LectorArchivo(){
-
     }
 
     /**
@@ -36,8 +30,6 @@ public class LectorArchivo {
         }catch(IOException e){
             throw new IOException("El archivo no exite",e);
         }
-
-
     }
 
 }
